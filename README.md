@@ -1,30 +1,27 @@
-Sales Analysis Dashboard 📊
-📝 Project Overview
-This project presents a comprehensive analysis of retail sales data. The goal was to transform raw data into a visual story that helps stakeholders understand sales trends, product performance, and customer segmentation.
+# 📊 Sales Analysis & Insights Dashboard
 
-🎨 Design Process (UI/UX)
-Before building the dashboard, I used Figma to design the user interface. This ensured:
+## 🌟 Project Overview
+This project is a data-driven **Sales Analysis Dashboard** designed to provide deep insights into business performance. It transforms complex datasets into interactive visualizations, enabling stakeholders to track growth, profitability, and customer trends effectively.
 
-User-Centric Layout: Intuitive navigation between Overview, Product, and Customer views.
+## 🎨 UI/UX Design (Figma)
+Unlike standard dashboards, this project started with a dedicated design phase in **Figma**.
+* **Goal:** Create a user-friendly interface that balances aesthetics with data clarity.
+* **Layout:** A clean sidebar navigation system to switch between **Sales**, **Product**, and **Customer** views.
+* **Visual Identity:** Consistent use of gradients and modern typography to enhance readability.
 
-Visual Hierarchy: Clean and modern look with a consistent color palette.
+## 🚀 Key Analytics Features
+- **Global KPIs:** Instant view of Total Sales ($2M), Net Profit ($286K), and Volume (10K Orders).
+- **Time-Series Analysis:** Area charts showing steady growth from 2015 to 2018.
+- **Product Intelligence:** Tree maps and bar charts identifying **Technology** as the leading category.
+- **Customer Profiling:** Analysis of top-tier customers and their contribution to total revenue.
 
-Prototyping: Mapping out the user journey from the landing page to detailed reports.
+## 🛠 Tech Stack
+- **Design:** Figma
+- **Data Tools:** [Write your tool here, e.g., Excel / Power BI / Tableau]
+- **Documentation:** Markdown
 
-🚀 Key Features
-Interactive Navigation: Sidebar menu to toggle between Sales Overview, Product Details, and Customer Analysis.
+## 📸 Preview
+![Dashboard Overview](image_3a5689.png)
+*(Note: Replace with your actual image path)*
 
-KPI Tracking: Real-time visibility into Total Sales ($2M), Total Profit ($286K), and Total Orders (10K).
-
-Sales Trends: Yearly growth analysis (2015-2018) using area charts.
-
-Category Performance: Breakdown of sales and profit by Technology, Furniture, and Office Supplies.
-
-Top Customers & Sub-Categories: Identification of high-value clients and best-selling items like Phones and Chairs.
-
-🛠 Tools Used
-Design: Figma (UI/UX Design & Prototyping).
-
-Data Analysis: Power BI.
-
-Visuals: Donut Charts, Area Charts, Tree Maps, and Bar Charts.
+---
